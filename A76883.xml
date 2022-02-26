@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody independent plot discovered. Prosecuted by the open malice and fury of divers Agitators, Levellers, Anabaptists, Brownists and other sectaries and London agents. 1 To murder the King. 2 [To] divide the Army. 3 [To] levell the nobility and gentry. 4 [To] abolish the Protestant Religion. 5 [To] act any design that shall be destructive to all these; accounting it a wilfull sinne against God if they do it not, if their consciences shall dictate it unto them. Those five were committed by the House of Commons, Nov. 25. for prosecuting these most horrid designes before mentioned. (Viz.) Thomas Prince, cheese-monger. Samuel Chidley, stocken-seller. committed to the Gate-house. Ieremy Ives. Wil: Larner. Book-binder. And Thomas Taylor. Committed to Newgate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76883</idno>
+            <idno type="STC">Wing B3255</idno>
+            <idno type="STC">Thomason E419_[2</idno>
+            <idno type="STC">ESTC R204613</idno>
+            <idno type="EEBO-CITATION">99864079</idno>
+            <idno type="PROQUEST">99864079</idno>
+            <idno type="VID">116298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116298)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody independent plot discovered. Prosecuted by the open malice and fury of divers Agitators, Levellers, Anabaptists, Brownists and other sectaries and London agents. 1 To murder the King. 2 [To] divide the Army. 3 [To] levell the nobility and gentry. 4 [To] abolish the Protestant Religion. 5 [To] act any design that shall be destructive to all these; accounting it a wilfull sinne against God if they do it not, if their consciences shall dictate it unto them. Those five were committed by the House of Commons, Nov. 25. for prosecuting these most horrid designes before mentioned. (Viz.) Thomas Prince, cheese-monger. Samuel Chidley, stocken-seller. committed to the Gate-house. Ieremy Ives. Wil: Larner. Book-binder. And Thomas Taylor. Committed to Newgate.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year of the Saints Treason, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The numbers 1-5 and the words "murder the King. .. unto them." are in parallel columns on the title page, with the word "To" between them. The numbers 1-5 and the words "Thomas Prince, .. Gate-house." and "Ieremy .. Newgate" are bracketed together.</note>
+                  <note>Annotation on Thomason copy: "Dec: 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ives, Jeremy --  Early works to 1800.</term>
+               <term>Taylor, Thomas, fl. 1647 --  Early works to 1800.</term>
+               <term>Chidley, Samuel --  Early works to 1800.</term>
+               <term>Larner, William --  Early works to 1800.</term>
+               <term>Prince, Thomas --  Early works to 1800.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116298:1" rendition="simple:additions"/>
+            <p>A Bloody Independent PLOT DISCOVERED.</p>
+            <p>
+               <hi>PROSECVTED</hi> By the open Malice and Fury of divers <hi>Agitators, Levellers, Anabaptists, Browniſts</hi> and other <hi>Sectaries</hi> and <hi>London Agents.</hi>
+            </p>
+            <list>
+               <item>1 <hi>To</hi> Murder the King.</item>
+               <item>2 <hi>To</hi> Divide the Army.</item>
+               <item>3 <hi>To</hi> Levell the Nobillity and Gentry.</item>
+               <item>4 <hi>To</hi> Aboliſh the Proteſtant Religion.</item>
+               <item>5 <hi>To</hi> Act any Deſign that ſhall be deſtructive to all theſe; accounting it a wilfull ſinne againſt God if they do it not, if their Conſciences ſhall dictate it unto them.</item>
+            </list>
+            <p>Thoſe five were committed by the Houſe of Commons, <hi>Nov.</hi> 25. for proſecuting theſe moſt horrid Deſignes before mentioned.</p>
+            <p>
+               <hi>(Viz.)</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Thomas Prince,</hi> Cheeſe-monger.</item>
+               <item>
+                  <hi>Samuel Chidley,</hi> Stocken-ſeller committed to the <hi>Gate-houſe.</hi>
+               </item>
+               <item>
+                  <hi>Ieremy Jves.</hi>
+               </item>
+               <item>
+                  <hi>Wil: Larner.</hi> Book-binder.</item>
+               <item>And <hi>Thomas Taylor.</hi> Committed to <hi>Newgate</hi>
+               </item>
+            </list>
+            <p>Printed in the year of the Saints Treaſon, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116298:2"/>
+            <pb n="1" facs="tcp:116298:2"/>
+            <head>A Bloody Independent Plot.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S a ſhip whilſt it is upon the main ſea, is in a manner a Caſtle, or Common-wealth by it ſelfe, and ha<g ref="char:EOLhyphen"/>ving all the ſayls hoyſted up, and ſwolne with the wind, and the Banners diſplayed, with a lofty ſhew danceth upon the waves, and allu<g ref="char:EOLhyphen"/>reth every eye to behold the pride thereof: But when it comes into the Haven, it is ſtraight ranſacked by the Searcher, forced to pay cuſtome, the ſayls and banners taken in, the ſhip lyeth at Rode, and is little regarded.</p>
+            <p>So this <hi>Ship</hi> without a <hi>Pilot,</hi> this Parliament without a <hi>King,</hi> this <hi>body</hi> without a <hi>head</hi> ſo long as it ſayls upon the ſurges of worldly vanities, and follows the tide of a conſcienſlleſſe courſe, may range uncontroled, having many favourable gales to waft them for warre, and honours and pomp to ſet them onward to their journies end, ſo long they may be admired and lookt on by the people; but whenſoever they come into the Haven, they muſt expect Searchers, they muſt caſt Ancor, pay cuſtomes, their ſayls gathered in, their glory diſgraced, or little or nothing ſet by. So long as wee enjoyed all bleſſings, plenty of peace, plenty of the Goſpel, plenty of bread, plenty of all things, wee were free from Sects, Schiſmes, Rebellions, Murders, and the like, then we were admired by all nations, but when we were once driven by contrary winds upon the raging ſurges of the <hi>People, Diſcenſions,</hi> Schiſmy, and the like, we were quickly ſhipwrackt, drove upon a Rock, and ſplit, and ſoon became a <hi>Priſe</hi> for the mercileſſe waves.</p>
+            <p>This is <hi>Englands</hi> caſe at this day for theſe enemies of al our bleſ<g ref="char:EOLhyphen"/>ſings may fitly be compared to the <hi>Libard,</hi> that bears ſo deadly a hatred unto <hi>man,</hi> that at firſt ſight it flies in his face; to avoid the rage therof, the cuſtome is to ſhew him a mans Picture, which he
+<pb n="2" facs="tcp:116298:3"/> no ſooner ſeeth, but he rendeth and tareth, ſhewing thereby how eagerly it is bent againſt man it ſelfe, whoſe Image it cannot abide, So it is with theſe <hi>Anabaptiſts, Levellers,</hi> and <hi>Sectaries,</hi> when they cannot break their curſed malice againſt the King to murder him, then they ſeek to rend and divide that Army, which ſhould be his chiefe ſtrength and defence.</p>
+            <p n="1">1. For their cruell and curſed intentions to murder the King. I could explaine my ſelfe at large, and tell you of the man hir'd to doe that bloody and abhorred act, tell you their meetings about the ſame at <hi>Alderſgate</hi> at the ſigne of the <hi>Mouth,</hi> at the Wind<g ref="char:EOLhyphen"/>mill Taverne at <hi>Old-Jury</hi> end, in <hi>Foſter-lane,</hi> and <hi>Friday-ſtreet</hi> where they conſpired his death, and made no queſtion of inga<g ref="char:EOLhyphen"/>ging Maſter <hi>Peters</hi> and Maſter <hi>Dell</hi> therein; who had often termed him a <hi>Dead Dog:</hi> For juſtification of this I refer you to the Letter ſent to His Majeſty, to deſire him to provide for the ſafety of his perſon.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Majeſty,</salute>
+                  </opener>
+                  <p>IN diſcharge of my duty J cannot omit to acquaint you that my bro<g ref="char:EOLhyphen"/>ther was at a meeting laſt night with eight or nine Agitators who in debate of the obſtacle which did moſt hinder the ſpeedy effecting of their deſignes, did conclude it was Your Majeſty; and as long as your Majeſty doth live you would be ſo; and therefore reſolved, for the good of the Kindome, to take your life away; and that to that action they were well aſſured that Maſter <hi>Dell,</hi> and Maſter <hi>Peters</hi> (two of their Peachers) would willingly beare them company, for they had often ſaid to theſe Agitators, Your Najeſty is but a dead Dog: My prayers are for your Majeſties ſafety; but doe too much feare it can<g ref="char:EOLhyphen"/>not be whileſt you are in thoſe hands.</p>
+                  <p>J wiſh with my ſoule Your Majeſty were at my houſe in <hi>Broad<g ref="char:EOLhyphen"/>ſtreet,</hi> where I am confident I could keepe you in private till this ſtorm were over, but beg Your Majeſties pardon, and ſhall not preſume to offer it us an advice, it is only my constant zeale to Your Service, who am, <hi>Your Majeſties dutifull Subject,</hi> Novemb. <hi>9. 1647.</hi>
+                  </p>
+                  <closer>
+                     <signed>E. R.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p n="2">2. For their pernitious Plot to divide the Army, it was car<g ref="char:EOLhyphen"/>ried on with a deſperate Reſolution, the working of it by the
+<pb n="3" facs="tcp:116298:3"/> 
+               <hi>London</hi> Agents, ſhewed how active they were to effect the ſame, I will refer you for the truth hereof to Sir <hi>Thomas Fairfax,</hi> his Letter to the Lords and Commons written with his own hand, <hi>verbatim,</hi> from the Rendezvous neer <hi>Hartford.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>SIR, I thought it my duty to give you an account of our Rendez<g ref="char:EOLhyphen"/>vouz yeſterday neer <hi>Hartford,</hi> where I have given order for my own Regiment of Horſe, the Lieutenants Generall Regiment of Hoſe, and ſome other Regiments of Horſe and foot (to the number of ſeven) to apreare) but Colonell <hi>Harriſons</hi> Regiment of Horſe were ſo abu<g ref="char:EOLhyphen"/>ſed by ſome <hi>London</hi> Agents, that contrary to order, they came to the Rendezvouz in a very tumultuous manner, and with papers in their Hat, called, <hi>The agreement of the people,</hi> and on the out ſide, in Capitall Letters was printed, Englands Freedome, Souldiers Rights. Colonell <hi>Lilburns</hi> Regiment of Foot, was alſo exceedingly abuſed by the ſaid <hi>London</hi> Agents, ſo that they came alſo contrary to order in a mutinous manner, and had driven away all their prime Officers, the chiefe Officer conducting them being a Captaine Lievtenant, who is ſe<g ref="char:EOLhyphen"/>cured to be tryed by a Councell. A great number of the papers before mentioned were diſperſed, but upon command the Souldiers pulled them out of their Hats; divers private ſouldiers of the chiefe Mutiners of Colonell <hi>Lilburns</hi> Regiment were taken, and three condemned by a Councell of warre and one by lot ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t to death at the head of the Re<g ref="char:EOLhyphen"/>giment, Coll. <hi>Rainsborough delivered a Petition in the names of many, which had ingaged againſt</hi> the command. Every one praying, that the agreement of the People annexed thereto might be promoted, &amp;c. Major <hi>Scot,</hi> a Member of the Houſe was there very active, and ſecured, and ſent up to the Parliament. Theſe things being a little over, the Generall made a Declaration in the head of each Regi<g ref="char:EOLhyphen"/>ment, and they cheerfully, and unanimouſly declared againe. That they would ſerve the Parliament, and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> obedient to the old way of Diſci<g ref="char:EOLhyphen"/>pline, under His Excellency, ſigned</p>
+                  <closer>
+                     <dateline>
+                        <hi>Hartford,</hi>
+                        <date>
+                           <hi>Nov. 18.</hi>
+                        </date>
+                     </dateline>
+                     <signed>THO. FAIRFAX.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>For their deſigne to beguile the Common people and ſouldi<g ref="char:EOLhyphen"/>ers under pretence of <hi>Liberty:</hi> I refer you to their <hi>ingagement,</hi> which I here inſert for your better ſatisfaction therein.</p>
+            <q>
+               <pb n="4" facs="tcp:116298:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="agreement">
+                        <head>An Agreement of the People, for a firme and preſent Peace upon Grounds of Common Right and Freedome.</head>
+                        <p>HAving by our late labours and hazards made it appeare to the world at how high a rate we value our juſt freedome; and God ha<g ref="char:EOLhyphen"/>ving ſo farre <hi>owa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d our cauſe,</hi> as to deliver the <hi>Enemies</hi> thereof into our hands. We do now hold our ſelves bound in mutual duty to each other, to take the beſt care we can for the future, to avoyd both the danger of returning into a ſlaviſh condition, and the chargeable remedy of a<g ref="char:EOLhyphen"/>nother war: for as it cannot be imagined that as ſo many of our Coun<g ref="char:EOLhyphen"/>try men would have oppoſed us in this quarrell, if they had underſtood their own good, ſo we may eaſily promiſe to our ſelves that when our Common Rights and libertyes ſhall be cleared, their indeavours will be diſappointed that ſeek to make themſelves our Maſters; ſince therefore our former oppreſſions and ſcarce yet ended troubles hath been occaſi<g ref="char:EOLhyphen"/>oned, either by want of frequent Nationall meetings in Counſell, or by rendring thoſe meetings ineffectuall. We are fully agreed and reſolved to provide that hereafter our Repreſentatives be neither left to any un<g ref="char:EOLhyphen"/>certainty for the time, nor made uſeleſſe to the ends for which they are intended: in order whereunto we declare.</p>
+                        <p n="1">1. That the people of England, being at this day very unequally diſtribu<g ref="char:EOLhyphen"/>ted by Counties, Cities and Burrouhs for the election of their Deputies in Parliament ought to be more indifferently proportioned according to the number of the Inhabitants; the circumſtance whereof, for num<g ref="char:EOLhyphen"/>ber, place, and manner, are to be ſet down before the end of this pre<g ref="char:EOLhyphen"/>ſent Parliament.</p>
+                        <p n="2">2. That to prevent the many inconveniencies apparently riſing, from the long continuance of the ſame perſons in authority, this preſent Par<g ref="char:EOLhyphen"/>liament be diſſolved upon the laſt day of September, which ſhall be in the yeare of our Lord, 1648.</p>
+                        <p n="3">3. That the people do of courſe chuſe themſelves a Parliament once in two yeares, viz. upon the firſt Thurſday in every ſecond March as ſhall be preſcribed before the end of this preſent Parliament, to begin to fit upon the firſt Thurſday in Aprill following at Weſtminſter, or ſuch other place as ſhall bee appointed from time to time by the preceding Repreſentatives; and to continue till the laſt day of September, then next enſuing and no longer.</p>
+                        <p n="4">4. That the power of this and all future Repreſentatives of this Na<g ref="char:EOLhyphen"/>tion, is inferiour, onely to theirs which chuſe them, and doth extend without the conſent or concurrence of any other perſon or perſons to the enacting, altering, and repealing of Lawes, to the erecting and a<g ref="char:EOLhyphen"/>boliſhing of Officers and Courts, to the appointing, removing and calling to account Magiſtrates and Officers, of all degrees: to the ma<g ref="char:EOLhyphen"/>king War and Peace, to the treating with forreigne States. And gene<g ref="char:EOLhyphen"/>rally,
+<pb n="5" facs="tcp:116298:4"/> to whatſoever is not expreſly, or implyedly reſerved by the repre<g ref="char:EOLhyphen"/>ſented to themſelves.</p>
+                        <p>
+                           <hi>Which are as followeth.</hi>
+                        </p>
+                        <p n="1">1. THat matters of Religion and the wayes of Gods Worſhip, are not at all intruſted to us by any humane power, becauſe therein we cannot remit or exceed a tittle of what our Conſciences dictate to be the mind of God without wilfull ſinne: nevertheleſſe the publike way of inſtructing the Nation (ſo it be not compulſive) is referred to their diſcretion.</p>
+                        <p n="2">2. That the matter of impreſting and conſtraining any of us to ſerve in the wars is againſt our freedome; and therefore we do not allow it in our Repreſentatives; the rather, becauſe mony (the ſinews of war) being alwayes at their diſpoſall they can never want numbers of men apt enough to engage in any iuſt cauſe.</p>
+                        <p n="3">3. That after the diſſolution of this preſent Parliament, no perſon be at any time queſtioned for any thing ſaid or done, in reference to the late publike differences, otherwiſe then in execution of the Iudgments of the preſent Repreſentatives, or Houſe of Commons.</p>
+                        <p n="4">4. That in all Lawes made or to be made, every perſon may be bound alike and that no Tenure, Eſtate, Charter, Degree, Birth, or place, do confer any exemption from the ordinary courſe of Legall proceedings, whereunto others are ſubiected.</p>
+                        <p n="5">5. That as the Lawes ought to be equall, ſo they muſt be good, and not evidently deſtructive, to the ſafety and well-being of the People. THeſe things we declare to be our native Rights, and therefore are a<g ref="char:EOLhyphen"/>greed and reſolved to maintaine them with our utmoſt poſſibilities, againſt all oppoſitions whatſoever, bring compelled thereunto not only by the examples of our Anceſtors, whoſe bloud was often ſpent in vain for the recovery of their Freedomes, ſuffering themſelves through frau<g ref="char:EOLhyphen"/>dulent Accomodations, to be ſtill deluded of the fruit of their Victo<g ref="char:EOLhyphen"/>ries, but alſo by our own wofull experience, who having long expected, and dearly earned the eſtabliſhment of theſe certaine rules of Govern<g ref="char:EOLhyphen"/>ment are yet made to depend for the ſettlement of our peace and free<g ref="char:EOLhyphen"/>dome, upon Him that intended our bondage, and brought a cruell War<g ref="char:EOLunhyphen"/>dage upon us.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>If you truly and impartially ponder this ingagement, called an Agreement of the people for <hi>preſent peace</hi> upon grounds of <hi>Common-wealth</hi> and <hi>Freedome.</hi> Be pleaſed therefore to conſider, that theſe are thoſe, that whilſt they cry out <hi>Liberty, Liberty, Free<g ref="char:EOLhyphen"/>dome, Freedom</hi> do bring ſilly <hi>ſouls</hi> into Captivity, Thraldome and <hi>Bondage,</hi> by their ſubtill wiles and inſinuations, even whileſt all you have become a <hi>prey</hi> unto their unſatiable <hi>Conſciences,</hi> that wil (if they ſhould prevaile (as God forbid) Lord it over you with
+<pb n="6" facs="tcp:116298:5"/> more tyrannie then the very Turks and Infidels that never knew God. Therefore firſt let me deſire you to know what people theſe are that <hi>pretend peace</hi> upon grounds of Common-Rights &amp; Free<g ref="char:EOLhyphen"/>dome, and you ſhall find they are even pernicious and factious ſpirited Sectaries, Anabaptiſts, Browniſts, and the like, that never were good to any body, but their own Fraternity or Faction; and are a people ſo throughly Ieſuited in their deſtructive Prin<g ref="char:EOLhyphen"/>ciples, that they ſtick not to murder any, though Chriſtian Kings, or any elſe <hi>that are without,</hi> as they terme it: One exam<g ref="char:EOLhyphen"/>ple is yet freſh in our memories, of a moſt bloody and inhumane Maſſacre committed upon the body of one Maſter <hi>Loyonell Danel,</hi> by one of their Brethren named <hi>Deane,</hi> and others of the zealous Independent <hi>Cluſter;</hi> when after they had dogg'd him a long way, and comming into <hi>Elbowlane,</hi> moſt barbarouſly knock't him down with a Poul-axe, and after with a knife cut his throat; in a mockery, calling out, Lights, Lights hoe, and when the people ariſe to their windows, and asked the reaſon of their ſo calling out; They made anſwer, <hi>Here's a thing like a man, has loſt his ſoule, and cannot ſee which way 'tis gone:</hi> And ſo (as they thought) fled from the hand of deſerved Iuſtice to <hi>Oxford,</hi> into the Kings quarters for refuge, which no ſooner was made known unto his Majeſty, but moſt Chriſtianly, and juſtly he cauſed them preſent<g ref="char:EOLhyphen"/>ly to be apprehended, and delivered up, being a King that never would pardon Murder and hated to protect ſuch blood thirſty Homicides; From the profane nurſery of <hi>Oxford,</hi> they were remo<g ref="char:EOLhyphen"/>ved to their native Collodge of <hi>Newgate;</hi> and after commenc'd (for ſo barbarous an <hi>act</hi>) at Tyburn, at Doctor <hi>Stories</hi> Cap, which makes the reſt of their Il-dependent Brethren ever ſince cry out againſt, and ſo eagerly ſtrive to pull down <hi>humane Learning;</hi> Thus much to ſhew you the nature of them all, even from <hi>Cromwell</hi> to <hi>Lilburne,</hi> from <hi>Jreton</hi> to <hi>Overton,</hi> and ſo over all the reſt of theſe Gunpowder Saints; how many Chriſtians thinke you has that Town <hi>Bull</hi> of <hi>Ely</hi> (in his foming zeal) goar'd to death with his rebellious Horns? was it not a right Chriſtian part think you of the <hi>Defender of the Faith, John Lilburn</hi> after his ſouldiers had ſurprized that honeſt and godly Chriſtian Gentleman, Maſter <hi>William Hagar,</hi> as hee was walking after evening prayer on the Lords day in his Garden, ſtript him to the bare skin, and ſo drove
+<pb n="7" facs="tcp:116298:5"/> him before them ten miles, till he came in the preſence of this holy Colonell, who was ſo void of all Chriſtian Compaſſion, that he eſpying a Ring upon the Gentlemans finger, he checked his ſouldiers that they tooke it not off: They making anſwer, they could not get it off, it having been ſo long worn by the Gentleman, that the fleſh had over-growne it; <hi>Iohn Lilburne</hi> makes anſwer, Then take off finger and all. This was but for a Ring; thinke you not then, that if <hi>Iohn</hi> and his holy Brethren will cut off a finger for a Ring, that they will not kill a King for leſſe then a Crowne.</p>
+            <p n="3">3. <hi>For levelling the Nobility and Gentry,</hi> is as apparent as the Sun, for doe they not intend the deſtruction of the Nobility, when they ſeeke to take away their negative voice, and to make the ſupream power to be in the Common-people; they intend alſo to levell all Eſtates, and people, and to that end they bring this Argument in defence thereof.</p>
+            <p>In the beginning (ſay they) God made man perfect, and gave him Paradiſe, where hee had abundance of all things, but after he fell, man was curſed, and then he was to eat his bread in the ſweat of his brows, &amp;c. Then where's the bleſſing for the Children of God, except it be <hi>to have the abundance of all things as at the Crea<g ref="char:EOLhyphen"/>tion.</hi> For the Curſe of the wicked is, <hi>with labour, and industry of bo<g ref="char:EOLhyphen"/>dy to get their livings. Ergo.</hi> The righteous are not under the Curſe, therefore muſt in joy abundance of all things.</p>
+            <p n="4">4. <hi>That they intend the overthrow the Proteſtant Religion,</hi> it is evident; for all their Books expreſſe inveterat hatred and malice a<g ref="char:EOLhyphen"/>gainſt the ſame, raving, rayling and venting all ſpleen and malice againſt both it, the Miniſters thereof, &amp; againſt both Woſhip, Go<g ref="char:EOLhyphen"/>vernment and Diſcipline belonging thereto, impiouſly terming both It, and them <hi>Antichriſtian</hi> and <hi>Diabolicall, &amp;c.</hi>
+            </p>
+            <p n="5">5. If their Conſciences ſhall dictate any thing to them, as to murder, rob, commit adultery, equivocate or the like, and act any thing, though never ſo evill, ſo it be deſtructive to thoſe that are <hi>without,</hi> (as they term them) that is, That have no Community with them; they are bound to doe it, becauſe their <hi>Conſcience</hi> dictates it unto them; Nay, they wilfully ſin againſt God if they doe it not, as their own tongues confeſſe in their <hi>Areement with the People:</hi> And moreover in the laſt clauſe of the ſaid <hi>Agreement,</hi>
+               <pb n="8" facs="tcp:116298:6"/> they doe as good as tell us. <hi>That they have deerly earned the esta<g ref="char:EOLhyphen"/>bliſhment of their</hi> (pernicious and Trayterous) <hi>Rules of Government; and will no longer depend for the ſettlement of their Peace, and their Freedom upon Him, (King CHARLES) that b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought Bondage a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d cruell Warre upon them,</hi> Though indeed theſe Sectaries have been the moſt Active for blood-ſhed in theſe abhorred warres, and like their elder brother <hi>Faux,</hi> (though more ſubtilly) have under a pre<g ref="char:EOLhyphen"/>tence of <hi>Liberty</hi> and <hi>Freedom,</hi> blown us up into that ruine, miſery and ſlavery, that no Nation or Age (ſince Chriſtianity be<g ref="char:EOLhyphen"/>came a Profeſſion,) ever groan'd under the like Bondaage and Ty<g ref="char:EOLhyphen"/>ranny.</p>
+            <p>
+               <hi>How deſperately bold and audacious theſe Incendiaries are let all rea<g ref="char:EOLhyphen"/>ſonable people judge, when they doe promote their ſeditious deſignes even to the very faces of the Parliament, in the name of</hi> the people <hi>as may appeare by theſe votes following.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="votes">
+                        <div type="vote">
+                           <head>Die Martis, <hi>9.</hi> Novem. <hi>1647.</hi>
+                           </head>
+                           <p>A Paper directed, to the Supreme Authority of the Nation, The Comons in Parliament aſſembled, and ſtiled, <hi>the juſt and earneſt Petition of thoſe whoſe names are ſubſcribed, in behalfe of themſelves, and all the Free-born People of Englund;</hi> together with a printed Paper annexed, entituled, <hi>An Agreement of the People for a firm and preſent Peace, upon grounds of Common Right,</hi> were read.</p>
+                           <p>
+                              <hi>Reſolved, &amp;c.</hi>
+                           </p>
+                           <p>That the matters contained in theſe Papers, are deſtructive to the Being of Parliaments, and to the Fundamentall Government of the Kingdome.</p>
+                           <p>
+                              <hi>Reſolved, &amp;c,</hi>
+                           </p>
+                           <p>That a Letter be ſent to the Generall, and theſe Papers incloſed, together with the Vote of the Houſe upon them; And that he be deſired to examine the proceeding of this buſines in the Army, and returne an account hereof to this Houſe.</p>
+                        </div>
+                        <div type="vote">
+                           <head>Die Martis, <hi>23.</hi> Novemb. <hi>1647.</hi>
+                           </head>
+                           <p>A Petition directed, To the Supreme Authority of <hi>Englond,</hi> The Commons in Parliament aſſembled, and entituled, <hi>The
+<pb n="9" facs="tcp:116298:6"/> humble Petion of many Free-born People of England,</hi> ſent in a Letter directed to Maſter Speaker, and opened by a Committee thereunto appointed, was read the firſt and ſecond time.</p>
+                           <p>
+                              <hi>Reſolved upon the Queſtion.</hi>
+                           </p>
+                           <p>That this Petition is a ſeditious and contemptuous avowing and proſecution of a former Petition and Paper annexed, ſtiled, <hi>An Agreement of the People,</hi> formerly adjudged by this Houſe to bee deſtructive to the Being of Parliaments, and Fundamentall Govern<g ref="char:EOLhyphen"/>ment of the Kingdome.</p>
+                           <p>
+                              <hi>Reſolved, &amp;c.</hi>
+                           </p>
+                           <p>That <hi>Thomas Prince</hi> Cheeſemonger, and <hi>Samuel Chidley,</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> forth<g ref="char:EOLhyphen"/>with committed Priſoners to the Priſon of the Gatehouſe, there to remaine Priſoners during the pleaſure of this Houſe, for a ſeditious and contemptuous avowing and proſecution of a former Petition and Paper annexed, ſtiled, <hi>An Agreement of the People,</hi> formerly adjudged by this Houſe to be deſtructive to the Being of Parlia<g ref="char:EOLhyphen"/>ments, and Fundamentall Government of the Kingdome.</p>
+                           <p>
+                              <hi>Reſolved, &amp;c.</hi>
+                           </p>
+                           <p>That <hi>Ieremy Jves, Thomas Taylor,</hi> and <hi>William Larner,</hi> be forthwith committed to the Priſon of <hi>Newgate,</hi> there to remaine Priſoners during the pleaſure of this Houſe, for a Seditious and Contemptuous avowing and proſecution of a former Petition and Paper annexed, ſtiled, <hi>An Agreement of the People,</hi> formerly adjudged by this Houſe to be deſtructive to the Being of Parliaments, and Fundamentall Government of the Ringdom.</p>
+                           <p>
+                              <hi>Reſolved, &amp;c.</hi>
+                           </p>
+                           <p>That a Letter be prepared and ſent to the Generall, taking notice of his proceedings in the execution, according to the Rules of War (of a mutinous perſon) at the Rendezvous neer <hi>Ware,</hi> and to give him thanks for it; and to deſire him to proſecute the Examinations of that buſines to the bottom, and to bring ſuch guilty perſons as hee ſhall thinke fit to condigne and exemplary puniſhment.</p>
+                        </div>
+                        <trailer>Since theſe Votes, the perſons are juggld away, and not impriſoned, the Com<g ref="char:EOLhyphen"/>mons know they love the King, &amp;c.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="postscript">
+            <pb n="10" facs="tcp:116298:7"/>
+            <head>Poſt-ſcript.</head>
+            <p>LET all good Chriſtians, that are true Proteſtants be no longer blinded by theſe ſeditious Hypocrites, but Reſolve to fetch backe the Arke of our Iſrael from theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſed Philiſtin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; to maintain the true Proteſtant Religion, profeſſed in the Reigne of Queen <hi>Elizabeth</hi> and King <hi>Iames</hi> of famous memory, to defend our gracious Soveraign Lord King <hi>Charles</hi> (next under God, ſupream head and Governour) from all execrable Attempt, and destructive plots of Browniſts, Ana<g ref="char:EOLhyphen"/>baptiſts, and other Hereticks that have been proſecuted with ſo much fury for the ruine of <hi>both;</hi> to defend His honourable Crown and Dignity; the perſons and estates of His Royall Conſort and Princely Jſſue, to reſtore His Majestie to all his just Rights, Power, Prero<g ref="char:EOLhyphen"/>gative and Greatneſſe; to maintaine the juſt Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, the juſt Liberties and Properties of the <hi>Subject,</hi> to reduce all matters to be tryed by the knowne Lawes of this Kingdome, and to live in all Chriſtian obedience, and ſubjection to his Majeſty, and be governed by him, (as our Allegiance bindeth us) according to the Lawes.</p>
+            <p>Let this be the Agreement of all the peole of <hi>England</hi> from the higheſt to the loweſt; let them ſhew themſelves once more, <hi>Engliſhmen,</hi> after theſe ſeven years of blindneſſe and bondage; and be no more cheated and deluded of all their happineſſe-but ſtedfaſtly endeavour to ſettle a firme peace in all His Majeſties Dominiout, that ſo we may take a<g ref="char:EOLhyphen"/>way that reproach that is caſt upon us by all nations (by reaſon of theſe unnaturall <hi>Diviſions</hi>) and reſtore this Nation to its ancient Honour and Renown.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
